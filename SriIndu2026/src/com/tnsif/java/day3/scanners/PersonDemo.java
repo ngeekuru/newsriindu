@@ -13,7 +13,6 @@ public class PersonDemo {
 		System.out.println("enter your salary");
 		int psal = sc.nextInt();
 		System.out.println("enter your city");
-		
 		String pcity = sc1.nextLine();		
 		
 
